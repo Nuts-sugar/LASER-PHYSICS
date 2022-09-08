@@ -53,10 +53,10 @@ Contents:
   
 3_Quantum Mechanics and Path Integrals[量子力学与路径积分]
   
-  [Part_1.pdf](https://nuts-sugar.github.io/LASER-PHYSICS/Quantum Mechanics and Path Integrals/Part_1.pdf)
+  [Part_1.pdf](https://nuts-sugar.github.io/LASER-PHYSICS/Quantum%20Mechanics%20and%20Path%20Integrals/Part_1.pdf)
     
-  [Part_2.pdf](https://nuts-sugar.github.io/LASER-PHYSICS/Quantum Mechanics and Path Integrals/Part_2.pdf)
+  [Part_2.pdf](https://nuts-sugar.github.io/LASER-PHYSICS/Quantum%20Mechanics%20and%20Path%20Integrals/Part_2.pdf)
     
-  [Part_3.pdf](https://nuts-sugar.github.io/LASER-PHYSICS/Quantum Mechanics and Path Integrals/Part_3.pdf)
+  [Part_3.pdf](https://nuts-sugar.github.io/LASER-PHYSICS/Quantum%20Mechanics%20and%20Path%20Integrals/Part_3.pdf)
     
-  [Part_4.pdf](https://nuts-sugar.github.io/LASER-PHYSICS/Quantum Mechanics and Path Integrals/Part_4.pdf)
+  [Part_4.pdf](https://nuts-sugar.github.io/LASER-PHYSICS/Quantum%20Mechanics%20and%20Path%20Integrals/Part_4.pdf)
