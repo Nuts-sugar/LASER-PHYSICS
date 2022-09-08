@@ -19,7 +19,7 @@ Contents:
   
 2_The Feynman Lectures on Physics
 
-  Feynman physics volume 1 - classical mechanics
+  >>Feynman physics volume 1 - classical mechanics
   
   [Classical_mechanics_1.pdf](https://nuts-sugar.github.io/LASER-PHYSICS/Feynman_physics/volume_1/Classical_mechanics_1.pdf)
     
@@ -27,7 +27,7 @@ Contents:
     
   [Classical_mechanics_3.pdf](https://nuts-sugar.github.io/LASER-PHYSICS/Feynman_physics/volume_1/Classical_mechanics_3.pdf)
   
-  Feynman physics volume 2 - electromagnetic field
+  >>Feynman physics volume 2 - electromagnetic field
   
   [Electromagnetic_field_1.pdf](https://nuts-sugar.github.io/LASER-PHYSICS/Feynman_physics/volume_2/Electromagnetic_field_1.pdf)
     
@@ -43,7 +43,7 @@ Contents:
     
   [Electromagnetic_field_7.pdf](https://nuts-sugar.github.io/LASER-PHYSICS/Feynman_physics/volume_2/Electromagnetic_field_7.pdf)
   
-  Feynman physics volume 3 - quantum mechanics
+  >>Feynman physics volume 3 - quantum mechanics
   
   [Quantum_mechanics_1.pdf](https://nuts-sugar.github.io/LASER-PHYSICS/Feynman_physics/volume_3/Quantum_mechanics_1.pdf)
     
