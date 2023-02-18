@@ -1,4 +1,4 @@
-# LASER-PHYSICS
+# LASER-PHYSICS [Finished]
 Master Course | With Course Slides and some references
 
 This is a folder where course slides are saved.
